@@ -1,7 +1,7 @@
 // 引入express框架
 const express = require("express")
 const path = require("path")
-
+const { expressMiddleware } = require("local-mock-middleware")
 // 创建web服务器
 const app = express()
 
@@ -10,41 +10,7 @@ const bodyParser = require("body-parser")
 // 配置bodyParser
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: false }))
-app.get("/", async (req, res, next) => {
-  if (req.query.localMock) {
-    const html = `
-    <!DOCTYPE html>
-    <html>
-      <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
-        <title>QA</title>
-      </head>
-      <body>
-        <script >
-          function demo() {
-            fetch('${req.query.localMock}').then((res) => {
-              res.text().then((text)=>{
-                document.open()
-                document.write(text)
-                document.close()
-              })
-        
-            })
-          }
-          demo()
-    
-        </script>
-      </body>
-    </html>
-    
-    `
-    res.type("html")
-    res.send(html)
-    return
-  }
-  next()
-})
+app.use(expressMiddleware())
 // 配置静态托管
 app.use(express.static(path.join(__dirname, "/public")))
 

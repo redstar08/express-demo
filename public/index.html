@@ -8,16 +8,15 @@
   <body>
     <script src="//cdn.jsdelivr.net/npm/eruda"></script>
     <script src="//cdn.jsdelivr.net/npm/vconsole"></script>
-    <script src="//localhost:3000/dist/lib/index.js"></script>
+    <script src="//localhost:3000/dist/index.global.js"></script>
     <script type="module">
-      // import { erudaLocalMock } from "http://localhost:3000/dist/es/index.js"
-      const { erudaLocalMock } = window["local-mock-h5"]
+      const { erudaLocalMock } = window.localMockEasy
       eruda.init({ tool: "console" })
-      const localMockPlugin = erudaLocalMock(eruda, { entry: "http://localhost:8080" })
+      const localMockPlugin = erudaLocalMock(eruda)
       eruda.add(localMockPlugin).show("localmock").show()
     </script>
     <!-- <script type="module">
-      import { vconsoleLocalMock } from '/dist/es/index.js'
+      const { vconsoleLocalMock } = window.localMockEasy
       const vconsole = new VConsole()
       const localMockplugin = vconsoleLocalMock(VConsole, { entry: 'http://localhost:8080' })
       vconsole.addPlugin(localMockplugin)
