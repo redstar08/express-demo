@@ -1,16 +1,19 @@
 // 引入express框架
 const express = require("express")
+const { createServer } = require("http")
+const { Server: SocketServer } = require("socket.io")
 const path = require("path")
-const { expressMiddleware } = require("local-mock-middleware")
+// const { expressMiddleware } = require("local-mock-middleware")
 // 创建web服务器
 const app = express()
 
+//#region
 // post 请求体解析
 const bodyParser = require("body-parser")
 // 配置bodyParser
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: false }))
-app.use(expressMiddleware())
+// app.use(expressMiddleware())
 // 配置静态托管
 app.use(express.static(path.join(__dirname, "/public")))
 
@@ -38,6 +41,7 @@ app.all("/*", (req, res, next) => {
   if (req.method == "OPTIONS") res.sendResult(null, 200, "ok")
   else next()
 })
+//#endregion
 
 // --------------------路由模块开始--------------------
 // demo模块
@@ -49,7 +53,20 @@ app.use((req, res) => {
   res.sendResult(null, 404, "Not Found")
 })
 
-// 监听端口
-app.listen(3001)
 // 控制台提示输出
-console.log("server is runing at localhost:" + 3001)
+
+const httpServer = createServer(app)
+
+const io = new SocketServer(httpServer, {
+  /* options */
+})
+
+io.on("connection", (socket) => {
+  // ...
+  console.log("connection -> ok: ", socket.id)
+})
+
+// 监听端口
+httpServer.listen(3000)
+
+console.log("server is runing at localhost:" + 3000)
