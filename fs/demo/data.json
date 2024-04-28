@@ -1,0 +1,2724 @@
+[
+  {
+    "bosId": 4000441351027,
+    "vid": 6000708437027,
+    "parentVid": 0,
+    "parentPath": "",
+    "parentPathNameList": [],
+    "parentPathName": "",
+    "parentVidName": "",
+    "path": "-6000708437027-",
+    "vidType": 2,
+    "vidTypeName": "品牌",
+    "baseInfo": {
+      "vidName": "企微融合盟聚无企微1",
+      "vidAlias": null,
+      "vidCode": null,
+      "vidLogos": ["https://image-c-dev.weimobwmc.com/qa-sass-admin/58fe55935b734346809abf6a1fd63094.png"],
+      "vidStatus": 1,
+      "sort": 0,
+      "description": null,
+      "createTime": "2023-09-06 11:49:38"
+    },
+    "extInfo": {
+      "productId": null,
+      "productInstanceId": null,
+      "size": null,
+      "vidPictures": null,
+      "wxOnlineStatus": 1,
+      "isUnifyLogo": null,
+      "addressDto": {
+        "provinceCode": null,
+        "cityCode": null,
+        "countyCode": null,
+        "areaCode": null,
+        "provinceName": "",
+        "cityName": "",
+        "countyName": "",
+        "areaName": "",
+        "detailAddress": "",
+        "longitude": null,
+        "latitude": null
+      },
+      "contactZone": null,
+      "contactZoneName": null,
+      "contactZoneRegexp": null,
+      "contactTel": null,
+      "floorName": null,
+      "businessTime": null
+    },
+    "products": [
+      {
+        "productId": 222,
+        "productInstanceId": 10551695027,
+        "productName": "大转盘",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271juozxX63ky2rddi/bigwheel/activityList"
+      },
+      {
+        "productId": 207,
+        "productInstanceId": 10551699027,
+        "productName": "砸金蛋",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2727o171X63ky2rddi/egg/activityList"
+      },
+      {
+        "productId": 165932,
+        "productInstanceId": 10551690027,
+        "productName": "睡神大作战",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270q30r1X63ky2rddi/teacher/activityList"
+      },
+      {
+        "productId": 165921,
+        "productInstanceId": 10551664027,
+        "productName": "默契大考验",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271c424tX63ky2rddi/tacit/activityList"
+      },
+      {
+        "productId": 216,
+        "productInstanceId": 10551680027,
+        "productName": "荐客有礼",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkRecommend/4000441351027/63i9vosxwX270phl59X63ky2rddi/recommend/activity/list"
+      },
+      {
+        "productId": 1,
+        "productInstanceId": 10551673027,
+        "productName": "店铺",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/home/4000441351027/63i9vosxwX2716r5otX63ky2rddi/dashbord/index"
+      },
+      {
+        "productId": 165874,
+        "productInstanceId": 10551684027,
+        "productName": "全民奥运会",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkOlympics/4000441351027/63i9vosxwX271daxcdX63ky2rddi/olympic/list"
+      },
+      {
+        "productId": 204,
+        "productInstanceId": 10551701027,
+        "productName": "CDP",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mav2/4000441351027/63i9vosxwX270qqlilX63ky2rddi/process/dashboard"
+      },
+      {
+        "productId": 214,
+        "productInstanceId": 10551662027,
+        "productName": "消消乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27107e19X63ky2rddi/elimination/activityList"
+      },
+      {
+        "productId": 341,
+        "productInstanceId": 10551688027,
+        "productName": "红包也疯狂",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX272149jhX63ky2rddi/redpacket/activityList"
+      },
+      {
+        "productId": 224,
+        "productInstanceId": 10551700027,
+        "productName": "砍价",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkBargain/4000441351027/63i9vosxwX270ks9gtX63ky2rddi/bargain/activity"
+      },
+      {
+        "productId": 206,
+        "productInstanceId": 10551666027,
+        "productName": "数据魔方",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/feedback/4000441351027/63i9vosxwX271o0q8dX63ky2rddi/adservingSet/shopping"
+      },
+      {
+        "productId": 167051,
+        "productInstanceId": 10551694027,
+        "productName": "超级导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecDoor/4000441351027/63i9vosxwX271dwcy5X63ky2rddi/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 205,
+        "productInstanceId": 10551670027,
+        "productName": "种草笔记",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecMarketing/4000441351027/63i9vosxwX270ow5jhX63ky2rddi/featureArticle/list"
+      },
+      {
+        "productId": 145,
+        "productInstanceId": 10551702027,
+        "productName": "商城",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecOrder/4000441351027/63i9vosxwX270woxkdX63ky2rddi/order/order/orderlist"
+      },
+      {
+        "productId": 213,
+        "productInstanceId": 10551698027,
+        "productName": "摇一摇",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2721pp59X63ky2rddi/shake/activityList"
+      },
+      {
+        "productId": 322,
+        "productInstanceId": 10551661027,
+        "productName": "微留言",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkMessage/4000441351027/63i9vosxwX270u91zhX63ky2rddi/message/list"
+      },
+      {
+        "productId": 165635,
+        "productInstanceId": 10551683027,
+        "productName": "步数星球",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkplanet/4000441351027/63i9vosxwX2717clalX63ky2rddi/planet/list"
+      },
+      {
+        "productId": 210,
+        "productInstanceId": 10551697027,
+        "productName": "刮刮卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271vrd3hX63ky2rddi/scratch/activityList"
+      },
+      {
+        "productId": 215,
+        "productInstanceId": 10551676027,
+        "productName": "粉丝集结令",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkFans/4000441351027/63i9vosxwX271om5u5X63ky2rddi/fans/list"
+      },
+      {
+        "productId": 165876,
+        "productInstanceId": 10551687027,
+        "productName": "脸战",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkFacebattle/4000441351027/63i9vosxwX271v5xhpX63ky2rddi/facebattle/list"
+      },
+      {
+        "productId": 150,
+        "productInstanceId": 10551665027,
+        "productName": "导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/shopguide/4000441351027/63i9vosxwX271i2e6lX63ky2rddi/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 221,
+        "productInstanceId": 10551671027,
+        "productName": "一码多用",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkqrcode/4000441351027/63i9vosxwX270uuhl9X63ky2rddi/qrcode/list"
+      },
+      {
+        "productId": 417,
+        "productInstanceId": 10551678027,
+        "productName": "微助力(废弃)",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2720itxpX63ky2rddi/assistance/activityList"
+      },
+      {
+        "productId": 225,
+        "productInstanceId": 10551679027,
+        "productName": "微投票",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/mkVote/4000441351027/63i9vosxwX2726h5zhX63ky2rddi/advance/vote/list"
+      },
+      {
+        "productId": 151,
+        "productInstanceId": 10551672027,
+        "productName": "数据",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/sente/4000441351027/63i9vosxwX2710stn1X63ky2rddi/poster/page/index"
+      },
+      {
+        "productId": 147,
+        "productInstanceId": 10551668027,
+        "productName": "营销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkmarketing/4000441351027/63i9vosxwX271zxebxX63ky2rddi/marketing/home"
+      },
+      {
+        "productId": 165937,
+        "productInstanceId": 10551682027,
+        "productName": "我是预言家",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2711e98tX63ky2rddi/prophet/activityList"
+      },
+      {
+        "productId": 202,
+        "productInstanceId": 10551675027,
+        "productName": "分销市场",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/fxsupplier/4000441351027/63i9vosxwX271intsdX63ky2rddi/qualification/apply"
+      },
+      {
+        "productId": 165636,
+        "productInstanceId": 10551696027,
+        "productName": "答题吃鸡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkAnswer/4000441351027/63i9vosxwX271pt11pX63ky2rddi/answer/activityList"
+      },
+      {
+        "productId": 217,
+        "productInstanceId": 10551677027,
+        "productName": "礼品卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkGiftcard/4000441351027/63i9vosxwX271ukhvxX63ky2rddi/giftcard/activity/manage"
+      },
+      {
+        "productId": 165551,
+        "productInstanceId": 10551669027,
+        "productName": "测评",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkEvaluation/4000441351027/63i9vosxwX2725vqdpX63ky2rddi/evaluation/activityList"
+      },
+      {
+        "productId": 146,
+        "productInstanceId": 10551703027,
+        "productName": "CRM",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/onecrm/4000441351027/63i9vosxwX2712n9m5X63ky2rddi/customer/customer-list"
+      },
+      {
+        "productId": 153,
+        "productInstanceId": 10551685027,
+        "productName": "客服",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/im/4000441351027/63i9vosxwX271j99e5X63ky2rddi/customer/list"
+      },
+      {
+        "productId": 340,
+        "productInstanceId": 10551660027,
+        "productName": "拆礼盒",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270oapxpX63ky2rddi/box/activityList"
+      },
+      {
+        "productId": 220,
+        "productInstanceId": 10551691027,
+        "productName": "带参二维码",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkcodeArgument/4000441351027/63i9vosxwX270w1cstX63ky2rddi/codeArgument/list"
+      },
+      {
+        "productId": 165946,
+        "productInstanceId": 10551689027,
+        "productName": "挖宝达人",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mktreasure/4000441351027/63i9vosxwX27272ll9X63ky2rddi/treasure/list"
+      },
+      {
+        "productId": 212,
+        "productInstanceId": 10551663027,
+        "productName": "摇摇乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27165q31X63ky2rddi/shakedice/activityList"
+      },
+      {
+        "productId": 152,
+        "productInstanceId": 10551686027,
+        "productName": "直播",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkPromotionLive/4000441351027/63i9vosxwX271p7lfxX63ky2rddi/live/group/list"
+      },
+      {
+        "productId": 226,
+        "productInstanceId": 10551667027,
+        "productName": "扭蛋机",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271tz2a5X63ky2rddi/twistEgg/activityList"
+      },
+      {
+        "productId": 335,
+        "productInstanceId": 10551674027,
+        "productName": "风控",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mprisk/4000441351027/63i9vosxwX271cphqlX63ky2rddi/risk/risk-black"
+      },
+      {
+        "productId": 334,
+        "productInstanceId": 10551693027,
+        "productName": "分销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecTweeter/4000441351027/63i9vosxwX2717y0wdX63ky2rddi/weike/list"
+      },
+      {
+        "productId": 320,
+        "productInstanceId": 10551681027,
+        "productName": "商圈行业",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/home/4000441351027/63i9vosxwX270vfx71X63ky2rddi/setup/business"
+      }
+    ],
+    "jumpUrl": "http://master.saas.weimobqa.com/bos/products/home/4000441351027/63i9vosxwX2716r5otX63ky2rddi/dashbord/index",
+    "isRootNode": true,
+    "isShowSettingBtn": false,
+    "settingBtnAuthCodeList": []
+  },
+  {
+    "bosId": 4000441351027,
+    "vid": 6000711220027,
+    "parentVid": 6000708437027,
+    "parentPath": "-6000708437027-",
+    "parentPathNameList": ["企微融合盟聚无企微1"],
+    "parentPathName": "企微融合盟聚无企微1",
+    "parentVidName": "企微融合盟聚无企微1",
+    "path": "-6000708437027-6000711220027-",
+    "vidType": 3,
+    "vidTypeName": "区域",
+    "baseInfo": {
+      "vidName": "华北区",
+      "vidAlias": null,
+      "vidCode": "",
+      "vidLogos": null,
+      "vidStatus": 1,
+      "sort": 0,
+      "description": null,
+      "createTime": "2023-09-08 11:22:08"
+    },
+    "extInfo": null,
+    "products": [
+      {
+        "productId": 165921,
+        "productInstanceId": 10551664027,
+        "productName": "默契大考验",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271c424tX63ho7l652/tacit/activityList"
+      },
+      {
+        "productId": 340,
+        "productInstanceId": 10551660027,
+        "productName": "拆礼盒",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270oapxpX63ho7l652/box/activityList"
+      },
+      {
+        "productId": 341,
+        "productInstanceId": 10551688027,
+        "productName": "红包也疯狂",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX272149jhX63ho7l652/redpacket/activityList"
+      },
+      {
+        "productId": 151,
+        "productInstanceId": 10551672027,
+        "productName": "数据",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/sente/4000441351027/63i9vosxwX2710stn1X63ho7l652/poster/page/index"
+      },
+      {
+        "productId": 214,
+        "productInstanceId": 10551662027,
+        "productName": "消消乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27107e19X63ho7l652/elimination/activityList"
+      },
+      {
+        "productId": 334,
+        "productInstanceId": 10551693027,
+        "productName": "分销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecTweeter/4000441351027/63i9vosxwX2717y0wdX63ho7l652/weike/list"
+      },
+      {
+        "productId": 167051,
+        "productInstanceId": 10551694027,
+        "productName": "超级导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecDoor/4000441351027/63i9vosxwX271dwcy5X63ho7l652/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 217,
+        "productInstanceId": 10551677027,
+        "productName": "礼品卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkGiftcard/4000441351027/63i9vosxwX271ukhvxX63ho7l652/giftcard/activity/manage"
+      },
+      {
+        "productId": 204,
+        "productInstanceId": 10551701027,
+        "productName": "CDP",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mav2/4000441351027/63i9vosxwX270qqlilX63ho7l652/process/dashboard"
+      },
+      {
+        "productId": 150,
+        "productInstanceId": 10551665027,
+        "productName": "导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/shopguide/4000441351027/63i9vosxwX271i2e6lX63ho7l652/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 165636,
+        "productInstanceId": 10551696027,
+        "productName": "答题吃鸡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkAnswer/4000441351027/63i9vosxwX271pt11pX63ho7l652/answer/activityList"
+      },
+      {
+        "productId": 165874,
+        "productInstanceId": 10551684027,
+        "productName": "全民奥运会",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkOlympics/4000441351027/63i9vosxwX271daxcdX63ho7l652/olympic/list"
+      },
+      {
+        "productId": 216,
+        "productInstanceId": 10551680027,
+        "productName": "荐客有礼",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkRecommend/4000441351027/63i9vosxwX270phl59X63ho7l652/recommend/activity/list"
+      },
+      {
+        "productId": 147,
+        "productInstanceId": 10551668027,
+        "productName": "营销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkmarketing/4000441351027/63i9vosxwX271zxebxX63ho7l652/marketing/home"
+      },
+      {
+        "productId": 152,
+        "productInstanceId": 10551686027,
+        "productName": "直播",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkPromotionLive/4000441351027/63i9vosxwX271p7lfxX63ho7l652/live/group/list"
+      },
+      {
+        "productId": 335,
+        "productInstanceId": 10551674027,
+        "productName": "风控",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mprisk/4000441351027/63i9vosxwX271cphqlX63ho7l652/risk/risk-black"
+      },
+      {
+        "productId": 210,
+        "productInstanceId": 10551697027,
+        "productName": "刮刮卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271vrd3hX63ho7l652/scratch/activityList"
+      },
+      {
+        "productId": 153,
+        "productInstanceId": 10551685027,
+        "productName": "客服",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/im/4000441351027/63i9vosxwX271j99e5X63ho7l652/customer/list"
+      },
+      {
+        "productId": 165932,
+        "productInstanceId": 10551690027,
+        "productName": "睡神大作战",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270q30r1X63ho7l652/teacher/activityList"
+      },
+      {
+        "productId": 165876,
+        "productInstanceId": 10551687027,
+        "productName": "脸战",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkFacebattle/4000441351027/63i9vosxwX271v5xhpX63ho7l652/facebattle/list"
+      },
+      {
+        "productId": 206,
+        "productInstanceId": 10551666027,
+        "productName": "数据魔方",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/feedback/4000441351027/63i9vosxwX271o0q8dX63ho7l652/adservingSet/shopping"
+      },
+      {
+        "productId": 213,
+        "productInstanceId": 10551698027,
+        "productName": "摇一摇",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2721pp59X63ho7l652/shake/activityList"
+      },
+      {
+        "productId": 165937,
+        "productInstanceId": 10551682027,
+        "productName": "我是预言家",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2711e98tX63ho7l652/prophet/activityList"
+      },
+      {
+        "productId": 165551,
+        "productInstanceId": 10551669027,
+        "productName": "测评",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkEvaluation/4000441351027/63i9vosxwX2725vqdpX63ho7l652/evaluation/activityList"
+      },
+      {
+        "productId": 222,
+        "productInstanceId": 10551695027,
+        "productName": "大转盘",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271juozxX63ho7l652/bigwheel/activityList"
+      },
+      {
+        "productId": 165635,
+        "productInstanceId": 10551683027,
+        "productName": "步数星球",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkplanet/4000441351027/63i9vosxwX2717clalX63ho7l652/planet/list"
+      },
+      {
+        "productId": 417,
+        "productInstanceId": 10551678027,
+        "productName": "微助力(废弃)",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2720itxpX63ho7l652/assistance/activityList"
+      },
+      {
+        "productId": 145,
+        "productInstanceId": 10551702027,
+        "productName": "商城",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecOrder/4000441351027/63i9vosxwX270woxkdX63ho7l652/order/order/orderlist"
+      },
+      {
+        "productId": 165946,
+        "productInstanceId": 10551689027,
+        "productName": "挖宝达人",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mktreasure/4000441351027/63i9vosxwX27272ll9X63ho7l652/treasure/list"
+      },
+      {
+        "productId": 146,
+        "productInstanceId": 10551703027,
+        "productName": "CRM",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/onecrm/4000441351027/63i9vosxwX2712n9m5X63ho7l652/customer/customer-list"
+      },
+      {
+        "productId": 1,
+        "productInstanceId": 10551673027,
+        "productName": "店铺",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/home/4000441351027/63i9vosxwX2716r5otX63ho7l652/dashbord/index"
+      },
+      {
+        "productId": 226,
+        "productInstanceId": 10551667027,
+        "productName": "扭蛋机",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271tz2a5X63ho7l652/twistEgg/activityList"
+      },
+      {
+        "productId": 224,
+        "productInstanceId": 10551700027,
+        "productName": "砍价",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkBargain/4000441351027/63i9vosxwX270ks9gtX63ho7l652/bargain/activity"
+      },
+      {
+        "productId": 322,
+        "productInstanceId": 10551661027,
+        "productName": "微留言",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkMessage/4000441351027/63i9vosxwX270u91zhX63ho7l652/message/list"
+      }
+    ],
+    "jumpUrl": "http://master.saas.weimobqa.com/bos/products/home/4000441351027/63i9vosxwX2716r5otX63ho7l652/dashbord/index",
+    "isRootNode": false,
+    "isShowSettingBtn": true,
+    "settingBtnAuthCodeList": ["home#setup.orgList#setting", "home#setup.orgList#crmSetting"]
+  },
+  {
+    "bosId": 4000441351027,
+    "vid": 6000711006027,
+    "parentVid": 6000708437027,
+    "parentPath": "-6000708437027-",
+    "parentPathNameList": ["企微融合盟聚无企微1"],
+    "parentPathName": "企微融合盟聚无企微1",
+    "parentVidName": "企微融合盟聚无企微1",
+    "path": "-6000708437027-6000711006027-",
+    "vidType": 3,
+    "vidTypeName": "区域",
+    "baseInfo": {
+      "vidName": "华南区",
+      "vidAlias": null,
+      "vidCode": "",
+      "vidLogos": null,
+      "vidStatus": 1,
+      "sort": 0,
+      "description": null,
+      "createTime": "2023-09-08 11:21:36"
+    },
+    "extInfo": null,
+    "products": [
+      {
+        "productId": 165874,
+        "productInstanceId": 10551684027,
+        "productName": "全民奥运会",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkOlympics/4000441351027/63i9vosxwX271daxcdX63kbsumom/olympic/list"
+      },
+      {
+        "productId": 213,
+        "productInstanceId": 10551698027,
+        "productName": "摇一摇",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2721pp59X63kbsumom/shake/activityList"
+      },
+      {
+        "productId": 151,
+        "productInstanceId": 10551672027,
+        "productName": "数据",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/sente/4000441351027/63i9vosxwX2710stn1X63kbsumom/poster/page/index"
+      },
+      {
+        "productId": 152,
+        "productInstanceId": 10551686027,
+        "productName": "直播",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkPromotionLive/4000441351027/63i9vosxwX271p7lfxX63kbsumom/live/group/list"
+      },
+      {
+        "productId": 210,
+        "productInstanceId": 10551697027,
+        "productName": "刮刮卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271vrd3hX63kbsumom/scratch/activityList"
+      },
+      {
+        "productId": 1,
+        "productInstanceId": 10551673027,
+        "productName": "店铺",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/home/4000441351027/63i9vosxwX2716r5otX63kbsumom/dashbord/index"
+      },
+      {
+        "productId": 153,
+        "productInstanceId": 10551685027,
+        "productName": "客服",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/im/4000441351027/63i9vosxwX271j99e5X63kbsumom/customer/list"
+      },
+      {
+        "productId": 222,
+        "productInstanceId": 10551695027,
+        "productName": "大转盘",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271juozxX63kbsumom/bigwheel/activityList"
+      },
+      {
+        "productId": 204,
+        "productInstanceId": 10551701027,
+        "productName": "CDP",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mav2/4000441351027/63i9vosxwX270qqlilX63kbsumom/process/dashboard"
+      },
+      {
+        "productId": 165937,
+        "productInstanceId": 10551682027,
+        "productName": "我是预言家",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2711e98tX63kbsumom/prophet/activityList"
+      },
+      {
+        "productId": 165551,
+        "productInstanceId": 10551669027,
+        "productName": "测评",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkEvaluation/4000441351027/63i9vosxwX2725vqdpX63kbsumom/evaluation/activityList"
+      },
+      {
+        "productId": 165635,
+        "productInstanceId": 10551683027,
+        "productName": "步数星球",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkplanet/4000441351027/63i9vosxwX2717clalX63kbsumom/planet/list"
+      },
+      {
+        "productId": 217,
+        "productInstanceId": 10551677027,
+        "productName": "礼品卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkGiftcard/4000441351027/63i9vosxwX271ukhvxX63kbsumom/giftcard/activity/manage"
+      },
+      {
+        "productId": 167051,
+        "productInstanceId": 10551694027,
+        "productName": "超级导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecDoor/4000441351027/63i9vosxwX271dwcy5X63kbsumom/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 226,
+        "productInstanceId": 10551667027,
+        "productName": "扭蛋机",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271tz2a5X63kbsumom/twistEgg/activityList"
+      },
+      {
+        "productId": 206,
+        "productInstanceId": 10551666027,
+        "productName": "数据魔方",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/feedback/4000441351027/63i9vosxwX271o0q8dX63kbsumom/adservingSet/shopping"
+      },
+      {
+        "productId": 165636,
+        "productInstanceId": 10551696027,
+        "productName": "答题吃鸡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkAnswer/4000441351027/63i9vosxwX271pt11pX63kbsumom/answer/activityList"
+      },
+      {
+        "productId": 322,
+        "productInstanceId": 10551661027,
+        "productName": "微留言",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkMessage/4000441351027/63i9vosxwX270u91zhX63kbsumom/message/list"
+      },
+      {
+        "productId": 147,
+        "productInstanceId": 10551668027,
+        "productName": "营销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkmarketing/4000441351027/63i9vosxwX271zxebxX63kbsumom/marketing/home"
+      },
+      {
+        "productId": 146,
+        "productInstanceId": 10551703027,
+        "productName": "CRM",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/onecrm/4000441351027/63i9vosxwX2712n9m5X63kbsumom/customer/customer-list"
+      },
+      {
+        "productId": 165932,
+        "productInstanceId": 10551690027,
+        "productName": "睡神大作战",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270q30r1X63kbsumom/teacher/activityList"
+      },
+      {
+        "productId": 216,
+        "productInstanceId": 10551680027,
+        "productName": "荐客有礼",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkRecommend/4000441351027/63i9vosxwX270phl59X63kbsumom/recommend/activity/list"
+      },
+      {
+        "productId": 334,
+        "productInstanceId": 10551693027,
+        "productName": "分销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecTweeter/4000441351027/63i9vosxwX2717y0wdX63kbsumom/weike/list"
+      },
+      {
+        "productId": 150,
+        "productInstanceId": 10551665027,
+        "productName": "导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/shopguide/4000441351027/63i9vosxwX271i2e6lX63kbsumom/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 341,
+        "productInstanceId": 10551688027,
+        "productName": "红包也疯狂",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX272149jhX63kbsumom/redpacket/activityList"
+      },
+      {
+        "productId": 165876,
+        "productInstanceId": 10551687027,
+        "productName": "脸战",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkFacebattle/4000441351027/63i9vosxwX271v5xhpX63kbsumom/facebattle/list"
+      },
+      {
+        "productId": 214,
+        "productInstanceId": 10551662027,
+        "productName": "消消乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27107e19X63kbsumom/elimination/activityList"
+      },
+      {
+        "productId": 165921,
+        "productInstanceId": 10551664027,
+        "productName": "默契大考验",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271c424tX63kbsumom/tacit/activityList"
+      },
+      {
+        "productId": 145,
+        "productInstanceId": 10551702027,
+        "productName": "商城",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecOrder/4000441351027/63i9vosxwX270woxkdX63kbsumom/order/order/orderlist"
+      },
+      {
+        "productId": 335,
+        "productInstanceId": 10551674027,
+        "productName": "风控",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mprisk/4000441351027/63i9vosxwX271cphqlX63kbsumom/risk/risk-black"
+      },
+      {
+        "productId": 165946,
+        "productInstanceId": 10551689027,
+        "productName": "挖宝达人",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mktreasure/4000441351027/63i9vosxwX27272ll9X63kbsumom/treasure/list"
+      },
+      {
+        "productId": 340,
+        "productInstanceId": 10551660027,
+        "productName": "拆礼盒",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270oapxpX63kbsumom/box/activityList"
+      },
+      {
+        "productId": 224,
+        "productInstanceId": 10551700027,
+        "productName": "砍价",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkBargain/4000441351027/63i9vosxwX270ks9gtX63kbsumom/bargain/activity"
+      },
+      {
+        "productId": 417,
+        "productInstanceId": 10551678027,
+        "productName": "微助力(废弃)",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2720itxpX63kbsumom/assistance/activityList"
+      }
+    ],
+    "jumpUrl": "http://master.saas.weimobqa.com/bos/products/home/4000441351027/63i9vosxwX2716r5otX63kbsumom/dashbord/index",
+    "isRootNode": false,
+    "isShowSettingBtn": true,
+    "settingBtnAuthCodeList": ["home#setup.orgList#setting", "home#setup.orgList#crmSetting"]
+  },
+  {
+    "bosId": 4000441351027,
+    "vid": 6000711005027,
+    "parentVid": 6000708437027,
+    "parentPath": "-6000708437027-",
+    "parentPathNameList": ["企微融合盟聚无企微1"],
+    "parentPathName": "企微融合盟聚无企微1",
+    "parentVidName": "企微融合盟聚无企微1",
+    "path": "-6000708437027-6000711005027-",
+    "vidType": 3,
+    "vidTypeName": "区域",
+    "baseInfo": {
+      "vidName": "华东区",
+      "vidAlias": null,
+      "vidCode": "",
+      "vidLogos": null,
+      "vidStatus": 1,
+      "sort": 0,
+      "description": null,
+      "createTime": "2023-09-08 11:19:27"
+    },
+    "extInfo": null,
+    "products": [
+      {
+        "productId": 226,
+        "productInstanceId": 10551667027,
+        "productName": "扭蛋机",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271tz2a5X63jv9h5qu/twistEgg/activityList"
+      },
+      {
+        "productId": 340,
+        "productInstanceId": 10551660027,
+        "productName": "拆礼盒",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270oapxpX63jv9h5qu/box/activityList"
+      },
+      {
+        "productId": 216,
+        "productInstanceId": 10551680027,
+        "productName": "荐客有礼",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkRecommend/4000441351027/63i9vosxwX270phl59X63jv9h5qu/recommend/activity/list"
+      },
+      {
+        "productId": 152,
+        "productInstanceId": 10551686027,
+        "productName": "直播",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkPromotionLive/4000441351027/63i9vosxwX271p7lfxX63jv9h5qu/live/group/list"
+      },
+      {
+        "productId": 210,
+        "productInstanceId": 10551697027,
+        "productName": "刮刮卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271vrd3hX63jv9h5qu/scratch/activityList"
+      },
+      {
+        "productId": 341,
+        "productInstanceId": 10551688027,
+        "productName": "红包也疯狂",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX272149jhX63jv9h5qu/redpacket/activityList"
+      },
+      {
+        "productId": 151,
+        "productInstanceId": 10551672027,
+        "productName": "数据",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/sente/4000441351027/63i9vosxwX2710stn1X63jv9h5qu/poster/page/index"
+      },
+      {
+        "productId": 145,
+        "productInstanceId": 10551702027,
+        "productName": "商城",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecOrder/4000441351027/63i9vosxwX270woxkdX63jv9h5qu/order/order/orderlist"
+      },
+      {
+        "productId": 165636,
+        "productInstanceId": 10551696027,
+        "productName": "答题吃鸡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkAnswer/4000441351027/63i9vosxwX271pt11pX63jv9h5qu/answer/activityList"
+      },
+      {
+        "productId": 165876,
+        "productInstanceId": 10551687027,
+        "productName": "脸战",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkFacebattle/4000441351027/63i9vosxwX271v5xhpX63jv9h5qu/facebattle/list"
+      },
+      {
+        "productId": 214,
+        "productInstanceId": 10551662027,
+        "productName": "消消乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27107e19X63jv9h5qu/elimination/activityList"
+      },
+      {
+        "productId": 213,
+        "productInstanceId": 10551698027,
+        "productName": "摇一摇",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2721pp59X63jv9h5qu/shake/activityList"
+      },
+      {
+        "productId": 334,
+        "productInstanceId": 10551693027,
+        "productName": "分销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecTweeter/4000441351027/63i9vosxwX2717y0wdX63jv9h5qu/weike/list"
+      },
+      {
+        "productId": 222,
+        "productInstanceId": 10551695027,
+        "productName": "大转盘",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271juozxX63jv9h5qu/bigwheel/activityList"
+      },
+      {
+        "productId": 206,
+        "productInstanceId": 10551666027,
+        "productName": "数据魔方",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/feedback/4000441351027/63i9vosxwX271o0q8dX63jv9h5qu/adservingSet/shopping"
+      },
+      {
+        "productId": 335,
+        "productInstanceId": 10551674027,
+        "productName": "风控",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mprisk/4000441351027/63i9vosxwX271cphqlX63jv9h5qu/risk/risk-black"
+      },
+      {
+        "productId": 417,
+        "productInstanceId": 10551678027,
+        "productName": "微助力(废弃)",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2720itxpX63jv9h5qu/assistance/activityList"
+      },
+      {
+        "productId": 147,
+        "productInstanceId": 10551668027,
+        "productName": "营销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkmarketing/4000441351027/63i9vosxwX271zxebxX63jv9h5qu/marketing/home"
+      },
+      {
+        "productId": 165635,
+        "productInstanceId": 10551683027,
+        "productName": "步数星球",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkplanet/4000441351027/63i9vosxwX2717clalX63jv9h5qu/planet/list"
+      },
+      {
+        "productId": 322,
+        "productInstanceId": 10551661027,
+        "productName": "微留言",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkMessage/4000441351027/63i9vosxwX270u91zhX63jv9h5qu/message/list"
+      },
+      {
+        "productId": 165946,
+        "productInstanceId": 10551689027,
+        "productName": "挖宝达人",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mktreasure/4000441351027/63i9vosxwX27272ll9X63jv9h5qu/treasure/list"
+      },
+      {
+        "productId": 165937,
+        "productInstanceId": 10551682027,
+        "productName": "我是预言家",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2711e98tX63jv9h5qu/prophet/activityList"
+      },
+      {
+        "productId": 165551,
+        "productInstanceId": 10551669027,
+        "productName": "测评",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkEvaluation/4000441351027/63i9vosxwX2725vqdpX63jv9h5qu/evaluation/activityList"
+      },
+      {
+        "productId": 165932,
+        "productInstanceId": 10551690027,
+        "productName": "睡神大作战",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270q30r1X63jv9h5qu/teacher/activityList"
+      },
+      {
+        "productId": 224,
+        "productInstanceId": 10551700027,
+        "productName": "砍价",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkBargain/4000441351027/63i9vosxwX270ks9gtX63jv9h5qu/bargain/activity"
+      },
+      {
+        "productId": 165874,
+        "productInstanceId": 10551684027,
+        "productName": "全民奥运会",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkOlympics/4000441351027/63i9vosxwX271daxcdX63jv9h5qu/olympic/list"
+      },
+      {
+        "productId": 165921,
+        "productInstanceId": 10551664027,
+        "productName": "默契大考验",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271c424tX63jv9h5qu/tacit/activityList"
+      },
+      {
+        "productId": 167051,
+        "productInstanceId": 10551694027,
+        "productName": "超级导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecDoor/4000441351027/63i9vosxwX271dwcy5X63jv9h5qu/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 146,
+        "productInstanceId": 10551703027,
+        "productName": "CRM",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/onecrm/4000441351027/63i9vosxwX2712n9m5X63jv9h5qu/customer/customer-list"
+      },
+      {
+        "productId": 204,
+        "productInstanceId": 10551701027,
+        "productName": "CDP",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mav2/4000441351027/63i9vosxwX270qqlilX63jv9h5qu/process/dashboard"
+      },
+      {
+        "productId": 1,
+        "productInstanceId": 10551673027,
+        "productName": "店铺",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/home/4000441351027/63i9vosxwX2716r5otX63jv9h5qu/dashbord/index"
+      },
+      {
+        "productId": 153,
+        "productInstanceId": 10551685027,
+        "productName": "客服",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/im/4000441351027/63i9vosxwX271j99e5X63jv9h5qu/customer/list"
+      },
+      {
+        "productId": 150,
+        "productInstanceId": 10551665027,
+        "productName": "导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/shopguide/4000441351027/63i9vosxwX271i2e6lX63jv9h5qu/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 217,
+        "productInstanceId": 10551677027,
+        "productName": "礼品卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkGiftcard/4000441351027/63i9vosxwX271ukhvxX63jv9h5qu/giftcard/activity/manage"
+      }
+    ],
+    "jumpUrl": "http://master.saas.weimobqa.com/bos/products/home/4000441351027/63i9vosxwX2716r5otX63jv9h5qu/dashbord/index",
+    "isRootNode": false,
+    "isShowSettingBtn": true,
+    "settingBtnAuthCodeList": ["home#setup.orgList#setting", "home#setup.orgList#crmSetting"]
+  },
+  {
+    "bosId": 4000441351027,
+    "vid": 6000711011027,
+    "parentVid": 6000711220027,
+    "parentPath": "-6000708437027-6000711220027-",
+    "parentPathNameList": ["企微融合盟聚无企微1", "华北区"],
+    "parentPathName": "企微融合盟聚无企微1/华北区",
+    "parentVidName": "华北区",
+    "path": "-6000708437027-6000711220027-6000711011027-",
+    "vidType": 10,
+    "vidTypeName": "门店",
+    "baseInfo": {
+      "vidName": "北京东城区不二店",
+      "vidAlias": null,
+      "vidCode": "",
+      "vidLogos": [],
+      "vidStatus": 1,
+      "sort": 0,
+      "description": null,
+      "createTime": "2023-09-08 11:36:20"
+    },
+    "extInfo": {
+      "productId": null,
+      "productInstanceId": null,
+      "size": null,
+      "vidPictures": null,
+      "wxOnlineStatus": 1,
+      "isUnifyLogo": 1,
+      "addressDto": {
+        "provinceCode": null,
+        "cityCode": null,
+        "countyCode": null,
+        "areaCode": null,
+        "provinceName": "北京市",
+        "cityName": "北京市",
+        "countyName": "东城区",
+        "areaName": null,
+        "detailAddress": "长安街北侧天安门",
+        "longitude": 116.397455,
+        "latitude": 39.909187
+      },
+      "contactZone": null,
+      "contactZoneName": null,
+      "contactZoneRegexp": null,
+      "contactTel": null,
+      "floorName": null,
+      "businessTime": null
+    },
+    "products": [
+      {
+        "productId": 225,
+        "productInstanceId": 10551679027,
+        "productName": "微投票",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/mkVote/4000441351027/63i9vosxwX2726h5zhX63i2rimhi/advance/vote/list"
+      },
+      {
+        "productId": 210,
+        "productInstanceId": 10551697027,
+        "productName": "刮刮卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271vrd3hX63i2rimhi/scratch/activityList"
+      },
+      {
+        "productId": 145,
+        "productInstanceId": 10551702027,
+        "productName": "商城",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecOrder/4000441351027/63i9vosxwX270woxkdX63i2rimhi/order/order/orderlist"
+      },
+      {
+        "productId": 334,
+        "productInstanceId": 10551693027,
+        "productName": "分销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecTweeter/4000441351027/63i9vosxwX2717y0wdX63i2rimhi/weike/list"
+      },
+      {
+        "productId": 213,
+        "productInstanceId": 10551698027,
+        "productName": "摇一摇",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2721pp59X63i2rimhi/shake/activityList"
+      },
+      {
+        "productId": 217,
+        "productInstanceId": 10551677027,
+        "productName": "礼品卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkGiftcard/4000441351027/63i9vosxwX271ukhvxX63i2rimhi/giftcard/activity/manage"
+      },
+      {
+        "productId": 165946,
+        "productInstanceId": 10551689027,
+        "productName": "挖宝达人",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mktreasure/4000441351027/63i9vosxwX27272ll9X63i2rimhi/treasure/list"
+      },
+      {
+        "productId": 150,
+        "productInstanceId": 10551665027,
+        "productName": "导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/shopguide/4000441351027/63i9vosxwX271i2e6lX63i2rimhi/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 165932,
+        "productInstanceId": 10551690027,
+        "productName": "睡神大作战",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270q30r1X63i2rimhi/teacher/activityList"
+      },
+      {
+        "productId": 165636,
+        "productInstanceId": 10551696027,
+        "productName": "答题吃鸡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkAnswer/4000441351027/63i9vosxwX271pt11pX63i2rimhi/answer/activityList"
+      },
+      {
+        "productId": 146,
+        "productInstanceId": 10551703027,
+        "productName": "CRM",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/onecrm/4000441351027/63i9vosxwX2712n9m5X63i2rimhi/customer/customer-list"
+      },
+      {
+        "productId": 215,
+        "productInstanceId": 10551676027,
+        "productName": "粉丝集结令",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkFans/4000441351027/63i9vosxwX271om5u5X63i2rimhi/fans/list"
+      },
+      {
+        "productId": 340,
+        "productInstanceId": 10551660027,
+        "productName": "拆礼盒",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270oapxpX63i2rimhi/box/activityList"
+      },
+      {
+        "productId": 165635,
+        "productInstanceId": 10551683027,
+        "productName": "步数星球",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkplanet/4000441351027/63i9vosxwX2717clalX63i2rimhi/planet/list"
+      },
+      {
+        "productId": 153,
+        "productInstanceId": 10551685027,
+        "productName": "客服",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/im/4000441351027/63i9vosxwX271j99e5X63i2rimhi/customer/list"
+      },
+      {
+        "productId": 147,
+        "productInstanceId": 10551668027,
+        "productName": "营销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkmarketing/4000441351027/63i9vosxwX271zxebxX63i2rimhi/marketing/home"
+      },
+      {
+        "productId": 152,
+        "productInstanceId": 10551686027,
+        "productName": "直播",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkPromotionLive/4000441351027/63i9vosxwX271p7lfxX63i2rimhi/live/group/list"
+      },
+      {
+        "productId": 165551,
+        "productInstanceId": 10551669027,
+        "productName": "测评",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkEvaluation/4000441351027/63i9vosxwX2725vqdpX63i2rimhi/evaluation/activityList"
+      },
+      {
+        "productId": 204,
+        "productInstanceId": 10551701027,
+        "productName": "CDP",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mav2/4000441351027/63i9vosxwX270qqlilX63i2rimhi/process/dashboard"
+      },
+      {
+        "productId": 220,
+        "productInstanceId": 10551691027,
+        "productName": "带参二维码",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkcodeArgument/4000441351027/63i9vosxwX270w1cstX63i2rimhi/codeArgument/list"
+      },
+      {
+        "productId": 226,
+        "productInstanceId": 10551667027,
+        "productName": "扭蛋机",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271tz2a5X63i2rimhi/twistEgg/activityList"
+      },
+      {
+        "productId": 221,
+        "productInstanceId": 10551671027,
+        "productName": "一码多用",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkqrcode/4000441351027/63i9vosxwX270uuhl9X63i2rimhi/qrcode/list"
+      },
+      {
+        "productId": 205,
+        "productInstanceId": 10551670027,
+        "productName": "种草笔记",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecMarketing/4000441351027/63i9vosxwX270ow5jhX63i2rimhi/featureArticle/list"
+      },
+      {
+        "productId": 165937,
+        "productInstanceId": 10551682027,
+        "productName": "我是预言家",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2711e98tX63i2rimhi/prophet/activityList"
+      },
+      {
+        "productId": 214,
+        "productInstanceId": 10551662027,
+        "productName": "消消乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27107e19X63i2rimhi/elimination/activityList"
+      },
+      {
+        "productId": 216,
+        "productInstanceId": 10551680027,
+        "productName": "荐客有礼",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkRecommend/4000441351027/63i9vosxwX270phl59X63i2rimhi/recommend/activity/list"
+      },
+      {
+        "productId": 335,
+        "productInstanceId": 10551674027,
+        "productName": "风控",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mprisk/4000441351027/63i9vosxwX271cphqlX63i2rimhi/risk/risk-black"
+      },
+      {
+        "productId": 417,
+        "productInstanceId": 10551678027,
+        "productName": "微助力(废弃)",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2720itxpX63i2rimhi/assistance/activityList"
+      },
+      {
+        "productId": 322,
+        "productInstanceId": 10551661027,
+        "productName": "微留言",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkMessage/4000441351027/63i9vosxwX270u91zhX63i2rimhi/message/list"
+      },
+      {
+        "productId": 165874,
+        "productInstanceId": 10551684027,
+        "productName": "全民奥运会",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkOlympics/4000441351027/63i9vosxwX271daxcdX63i2rimhi/olympic/list"
+      },
+      {
+        "productId": 222,
+        "productInstanceId": 10551695027,
+        "productName": "大转盘",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271juozxX63i2rimhi/bigwheel/activityList"
+      },
+      {
+        "productId": 341,
+        "productInstanceId": 10551688027,
+        "productName": "红包也疯狂",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX272149jhX63i2rimhi/redpacket/activityList"
+      },
+      {
+        "productId": 151,
+        "productInstanceId": 10551672027,
+        "productName": "数据",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/sente/4000441351027/63i9vosxwX2710stn1X63i2rimhi/poster/page/index"
+      },
+      {
+        "productId": 207,
+        "productInstanceId": 10551699027,
+        "productName": "砸金蛋",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2727o171X63i2rimhi/egg/activityList"
+      },
+      {
+        "productId": 224,
+        "productInstanceId": 10551700027,
+        "productName": "砍价",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkBargain/4000441351027/63i9vosxwX270ks9gtX63i2rimhi/bargain/activity"
+      },
+      {
+        "productId": 165876,
+        "productInstanceId": 10551687027,
+        "productName": "脸战",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkFacebattle/4000441351027/63i9vosxwX271v5xhpX63i2rimhi/facebattle/list"
+      },
+      {
+        "productId": 212,
+        "productInstanceId": 10551663027,
+        "productName": "摇摇乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27165q31X63i2rimhi/shakedice/activityList"
+      },
+      {
+        "productId": 165921,
+        "productInstanceId": 10551664027,
+        "productName": "默契大考验",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271c424tX63i2rimhi/tacit/activityList"
+      }
+    ],
+    "jumpUrl": "http://master.saas.weimobqa.com/bos/products/home/4000441351027/63i9vosxwX2716r5otX63i2rimhi/dashbord/index",
+    "isRootNode": false,
+    "isShowSettingBtn": true,
+    "settingBtnAuthCodeList": ["home#setup.orgList#crmSetting", "home#setup.orgList#settingLogistics"]
+  },
+  {
+    "bosId": 4000441351027,
+    "vid": 6000711227027,
+    "parentVid": 6000711005027,
+    "parentPath": "-6000708437027-6000711005027-",
+    "parentPathNameList": ["企微融合盟聚无企微1", "华东区"],
+    "parentPathName": "企微融合盟聚无企微1/华东区",
+    "parentVidName": "华东区",
+    "path": "-6000708437027-6000711005027-6000711227027-",
+    "vidType": 10,
+    "vidTypeName": "门店",
+    "baseInfo": {
+      "vidName": "上海黄浦不二店",
+      "vidAlias": null,
+      "vidCode": "",
+      "vidLogos": [],
+      "vidStatus": 1,
+      "sort": 0,
+      "description": null,
+      "createTime": "2023-09-08 11:35:00"
+    },
+    "extInfo": {
+      "productId": null,
+      "productInstanceId": null,
+      "size": null,
+      "vidPictures": null,
+      "wxOnlineStatus": 1,
+      "isUnifyLogo": 1,
+      "addressDto": {
+        "provinceCode": null,
+        "cityCode": null,
+        "countyCode": null,
+        "areaCode": null,
+        "provinceName": "上海市",
+        "cityName": "上海市",
+        "countyName": "黄浦区",
+        "areaName": null,
+        "detailAddress": "北京东路780号黄浦剧场",
+        "longitude": 121.475639,
+        "latitude": 31.238464
+      },
+      "contactZone": null,
+      "contactZoneName": null,
+      "contactZoneRegexp": null,
+      "contactTel": null,
+      "floorName": null,
+      "businessTime": null
+    },
+    "products": [
+      {
+        "productId": 341,
+        "productInstanceId": 10551688027,
+        "productName": "红包也疯狂",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX272149jhX63kvz7gpi/redpacket/activityList"
+      },
+      {
+        "productId": 205,
+        "productInstanceId": 10551670027,
+        "productName": "种草笔记",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecMarketing/4000441351027/63i9vosxwX270ow5jhX63kvz7gpi/featureArticle/list"
+      },
+      {
+        "productId": 165551,
+        "productInstanceId": 10551669027,
+        "productName": "测评",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkEvaluation/4000441351027/63i9vosxwX2725vqdpX63kvz7gpi/evaluation/activityList"
+      },
+      {
+        "productId": 222,
+        "productInstanceId": 10551695027,
+        "productName": "大转盘",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271juozxX63kvz7gpi/bigwheel/activityList"
+      },
+      {
+        "productId": 212,
+        "productInstanceId": 10551663027,
+        "productName": "摇摇乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27165q31X63kvz7gpi/shakedice/activityList"
+      },
+      {
+        "productId": 335,
+        "productInstanceId": 10551674027,
+        "productName": "风控",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mprisk/4000441351027/63i9vosxwX271cphqlX63kvz7gpi/risk/risk-black"
+      },
+      {
+        "productId": 165874,
+        "productInstanceId": 10551684027,
+        "productName": "全民奥运会",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkOlympics/4000441351027/63i9vosxwX271daxcdX63kvz7gpi/olympic/list"
+      },
+      {
+        "productId": 340,
+        "productInstanceId": 10551660027,
+        "productName": "拆礼盒",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270oapxpX63kvz7gpi/box/activityList"
+      },
+      {
+        "productId": 225,
+        "productInstanceId": 10551679027,
+        "productName": "微投票",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/mkVote/4000441351027/63i9vosxwX2726h5zhX63kvz7gpi/advance/vote/list"
+      },
+      {
+        "productId": 220,
+        "productInstanceId": 10551691027,
+        "productName": "带参二维码",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkcodeArgument/4000441351027/63i9vosxwX270w1cstX63kvz7gpi/codeArgument/list"
+      },
+      {
+        "productId": 165876,
+        "productInstanceId": 10551687027,
+        "productName": "脸战",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkFacebattle/4000441351027/63i9vosxwX271v5xhpX63kvz7gpi/facebattle/list"
+      },
+      {
+        "productId": 151,
+        "productInstanceId": 10551672027,
+        "productName": "数据",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/sente/4000441351027/63i9vosxwX2710stn1X63kvz7gpi/poster/page/index"
+      },
+      {
+        "productId": 417,
+        "productInstanceId": 10551678027,
+        "productName": "微助力(废弃)",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2720itxpX63kvz7gpi/assistance/activityList"
+      },
+      {
+        "productId": 226,
+        "productInstanceId": 10551667027,
+        "productName": "扭蛋机",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271tz2a5X63kvz7gpi/twistEgg/activityList"
+      },
+      {
+        "productId": 165937,
+        "productInstanceId": 10551682027,
+        "productName": "我是预言家",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2711e98tX63kvz7gpi/prophet/activityList"
+      },
+      {
+        "productId": 145,
+        "productInstanceId": 10551702027,
+        "productName": "商城",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecOrder/4000441351027/63i9vosxwX270woxkdX63kvz7gpi/order/order/orderlist"
+      },
+      {
+        "productId": 165636,
+        "productInstanceId": 10551696027,
+        "productName": "答题吃鸡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkAnswer/4000441351027/63i9vosxwX271pt11pX63kvz7gpi/answer/activityList"
+      },
+      {
+        "productId": 213,
+        "productInstanceId": 10551698027,
+        "productName": "摇一摇",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2721pp59X63kvz7gpi/shake/activityList"
+      },
+      {
+        "productId": 165921,
+        "productInstanceId": 10551664027,
+        "productName": "默契大考验",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271c424tX63kvz7gpi/tacit/activityList"
+      },
+      {
+        "productId": 224,
+        "productInstanceId": 10551700027,
+        "productName": "砍价",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkBargain/4000441351027/63i9vosxwX270ks9gtX63kvz7gpi/bargain/activity"
+      },
+      {
+        "productId": 152,
+        "productInstanceId": 10551686027,
+        "productName": "直播",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkPromotionLive/4000441351027/63i9vosxwX271p7lfxX63kvz7gpi/live/group/list"
+      },
+      {
+        "productId": 207,
+        "productInstanceId": 10551699027,
+        "productName": "砸金蛋",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2727o171X63kvz7gpi/egg/activityList"
+      },
+      {
+        "productId": 165635,
+        "productInstanceId": 10551683027,
+        "productName": "步数星球",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkplanet/4000441351027/63i9vosxwX2717clalX63kvz7gpi/planet/list"
+      },
+      {
+        "productId": 204,
+        "productInstanceId": 10551701027,
+        "productName": "CDP",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mav2/4000441351027/63i9vosxwX270qqlilX63kvz7gpi/process/dashboard"
+      },
+      {
+        "productId": 334,
+        "productInstanceId": 10551693027,
+        "productName": "分销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecTweeter/4000441351027/63i9vosxwX2717y0wdX63kvz7gpi/weike/list"
+      },
+      {
+        "productId": 322,
+        "productInstanceId": 10551661027,
+        "productName": "微留言",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkMessage/4000441351027/63i9vosxwX270u91zhX63kvz7gpi/message/list"
+      },
+      {
+        "productId": 165932,
+        "productInstanceId": 10551690027,
+        "productName": "睡神大作战",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270q30r1X63kvz7gpi/teacher/activityList"
+      },
+      {
+        "productId": 216,
+        "productInstanceId": 10551680027,
+        "productName": "荐客有礼",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkRecommend/4000441351027/63i9vosxwX270phl59X63kvz7gpi/recommend/activity/list"
+      },
+      {
+        "productId": 147,
+        "productInstanceId": 10551668027,
+        "productName": "营销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkmarketing/4000441351027/63i9vosxwX271zxebxX63kvz7gpi/marketing/home"
+      },
+      {
+        "productId": 214,
+        "productInstanceId": 10551662027,
+        "productName": "消消乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27107e19X63kvz7gpi/elimination/activityList"
+      },
+      {
+        "productId": 217,
+        "productInstanceId": 10551677027,
+        "productName": "礼品卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkGiftcard/4000441351027/63i9vosxwX271ukhvxX63kvz7gpi/giftcard/activity/manage"
+      },
+      {
+        "productId": 221,
+        "productInstanceId": 10551671027,
+        "productName": "一码多用",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkqrcode/4000441351027/63i9vosxwX270uuhl9X63kvz7gpi/qrcode/list"
+      },
+      {
+        "productId": 215,
+        "productInstanceId": 10551676027,
+        "productName": "粉丝集结令",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkFans/4000441351027/63i9vosxwX271om5u5X63kvz7gpi/fans/list"
+      },
+      {
+        "productId": 153,
+        "productInstanceId": 10551685027,
+        "productName": "客服",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/im/4000441351027/63i9vosxwX271j99e5X63kvz7gpi/customer/list"
+      },
+      {
+        "productId": 150,
+        "productInstanceId": 10551665027,
+        "productName": "导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/shopguide/4000441351027/63i9vosxwX271i2e6lX63kvz7gpi/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 146,
+        "productInstanceId": 10551703027,
+        "productName": "CRM",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/onecrm/4000441351027/63i9vosxwX2712n9m5X63kvz7gpi/customer/customer-list"
+      },
+      {
+        "productId": 210,
+        "productInstanceId": 10551697027,
+        "productName": "刮刮卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271vrd3hX63kvz7gpi/scratch/activityList"
+      },
+      {
+        "productId": 165946,
+        "productInstanceId": 10551689027,
+        "productName": "挖宝达人",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mktreasure/4000441351027/63i9vosxwX27272ll9X63kvz7gpi/treasure/list"
+      }
+    ],
+    "jumpUrl": "http://master.saas.weimobqa.com/bos/products/home/4000441351027/63i9vosxwX2716r5otX63kvz7gpi/dashbord/index",
+    "isRootNode": false,
+    "isShowSettingBtn": true,
+    "settingBtnAuthCodeList": ["home#setup.orgList#crmSetting", "home#setup.orgList#settingLogistics"]
+  },
+  {
+    "bosId": 4000441351027,
+    "vid": 6000711226027,
+    "parentVid": 6000711006027,
+    "parentPath": "-6000708437027-6000711006027-",
+    "parentPathNameList": ["企微融合盟聚无企微1", "华南区"],
+    "parentPathName": "企微融合盟聚无企微1/华南区",
+    "parentVidName": "华南区",
+    "path": "-6000708437027-6000711006027-6000711226027-",
+    "vidType": 10,
+    "vidTypeName": "门店",
+    "baseInfo": {
+      "vidName": "广州荔湾区不二店",
+      "vidAlias": null,
+      "vidCode": "",
+      "vidLogos": [],
+      "vidStatus": 1,
+      "sort": 0,
+      "description": null,
+      "createTime": "2023-09-08 11:33:48"
+    },
+    "extInfo": {
+      "productId": null,
+      "productInstanceId": null,
+      "size": null,
+      "vidPictures": null,
+      "wxOnlineStatus": 1,
+      "isUnifyLogo": 1,
+      "addressDto": {
+        "provinceCode": null,
+        "cityCode": null,
+        "countyCode": null,
+        "areaCode": null,
+        "provinceName": "广东省",
+        "cityName": "广州市",
+        "countyName": "荔湾区",
+        "areaName": null,
+        "detailAddress": "荔湾区",
+        "longitude": 113.218998,
+        "latitude": 23.107123
+      },
+      "contactZone": null,
+      "contactZoneName": null,
+      "contactZoneRegexp": null,
+      "contactTel": null,
+      "floorName": null,
+      "businessTime": null
+    },
+    "products": [
+      {
+        "productId": 217,
+        "productInstanceId": 10551677027,
+        "productName": "礼品卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkGiftcard/4000441351027/63i9vosxwX271ukhvxX63kfftzrq/giftcard/activity/manage"
+      },
+      {
+        "productId": 210,
+        "productInstanceId": 10551697027,
+        "productName": "刮刮卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271vrd3hX63kfftzrq/scratch/activityList"
+      },
+      {
+        "productId": 151,
+        "productInstanceId": 10551672027,
+        "productName": "数据",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/sente/4000441351027/63i9vosxwX2710stn1X63kfftzrq/poster/page/index"
+      },
+      {
+        "productId": 145,
+        "productInstanceId": 10551702027,
+        "productName": "商城",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecOrder/4000441351027/63i9vosxwX270woxkdX63kfftzrq/order/order/orderlist"
+      },
+      {
+        "productId": 205,
+        "productInstanceId": 10551670027,
+        "productName": "种草笔记",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecMarketing/4000441351027/63i9vosxwX270ow5jhX63kfftzrq/featureArticle/list"
+      },
+      {
+        "productId": 341,
+        "productInstanceId": 10551688027,
+        "productName": "红包也疯狂",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX272149jhX63kfftzrq/redpacket/activityList"
+      },
+      {
+        "productId": 146,
+        "productInstanceId": 10551703027,
+        "productName": "CRM",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/onecrm/4000441351027/63i9vosxwX2712n9m5X63kfftzrq/customer/customer-list"
+      },
+      {
+        "productId": 165946,
+        "productInstanceId": 10551689027,
+        "productName": "挖宝达人",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mktreasure/4000441351027/63i9vosxwX27272ll9X63kfftzrq/treasure/list"
+      },
+      {
+        "productId": 152,
+        "productInstanceId": 10551686027,
+        "productName": "直播",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkPromotionLive/4000441351027/63i9vosxwX271p7lfxX63kfftzrq/live/group/list"
+      },
+      {
+        "productId": 207,
+        "productInstanceId": 10551699027,
+        "productName": "砸金蛋",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2727o171X63kfftzrq/egg/activityList"
+      },
+      {
+        "productId": 213,
+        "productInstanceId": 10551698027,
+        "productName": "摇一摇",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2721pp59X63kfftzrq/shake/activityList"
+      },
+      {
+        "productId": 216,
+        "productInstanceId": 10551680027,
+        "productName": "荐客有礼",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkRecommend/4000441351027/63i9vosxwX270phl59X63kfftzrq/recommend/activity/list"
+      },
+      {
+        "productId": 215,
+        "productInstanceId": 10551676027,
+        "productName": "粉丝集结令",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkFans/4000441351027/63i9vosxwX271om5u5X63kfftzrq/fans/list"
+      },
+      {
+        "productId": 322,
+        "productInstanceId": 10551661027,
+        "productName": "微留言",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkMessage/4000441351027/63i9vosxwX270u91zhX63kfftzrq/message/list"
+      },
+      {
+        "productId": 225,
+        "productInstanceId": 10551679027,
+        "productName": "微投票",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/mkVote/4000441351027/63i9vosxwX2726h5zhX63kfftzrq/advance/vote/list"
+      },
+      {
+        "productId": 214,
+        "productInstanceId": 10551662027,
+        "productName": "消消乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27107e19X63kfftzrq/elimination/activityList"
+      },
+      {
+        "productId": 224,
+        "productInstanceId": 10551700027,
+        "productName": "砍价",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkBargain/4000441351027/63i9vosxwX270ks9gtX63kfftzrq/bargain/activity"
+      },
+      {
+        "productId": 165921,
+        "productInstanceId": 10551664027,
+        "productName": "默契大考验",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271c424tX63kfftzrq/tacit/activityList"
+      },
+      {
+        "productId": 335,
+        "productInstanceId": 10551674027,
+        "productName": "风控",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mprisk/4000441351027/63i9vosxwX271cphqlX63kfftzrq/risk/risk-black"
+      },
+      {
+        "productId": 165876,
+        "productInstanceId": 10551687027,
+        "productName": "脸战",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkFacebattle/4000441351027/63i9vosxwX271v5xhpX63kfftzrq/facebattle/list"
+      },
+      {
+        "productId": 334,
+        "productInstanceId": 10551693027,
+        "productName": "分销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecTweeter/4000441351027/63i9vosxwX2717y0wdX63kfftzrq/weike/list"
+      },
+      {
+        "productId": 222,
+        "productInstanceId": 10551695027,
+        "productName": "大转盘",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271juozxX63kfftzrq/bigwheel/activityList"
+      },
+      {
+        "productId": 340,
+        "productInstanceId": 10551660027,
+        "productName": "拆礼盒",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270oapxpX63kfftzrq/box/activityList"
+      },
+      {
+        "productId": 226,
+        "productInstanceId": 10551667027,
+        "productName": "扭蛋机",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271tz2a5X63kfftzrq/twistEgg/activityList"
+      },
+      {
+        "productId": 153,
+        "productInstanceId": 10551685027,
+        "productName": "客服",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/im/4000441351027/63i9vosxwX271j99e5X63kfftzrq/customer/list"
+      },
+      {
+        "productId": 417,
+        "productInstanceId": 10551678027,
+        "productName": "微助力(废弃)",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2720itxpX63kfftzrq/assistance/activityList"
+      },
+      {
+        "productId": 212,
+        "productInstanceId": 10551663027,
+        "productName": "摇摇乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27165q31X63kfftzrq/shakedice/activityList"
+      },
+      {
+        "productId": 220,
+        "productInstanceId": 10551691027,
+        "productName": "带参二维码",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkcodeArgument/4000441351027/63i9vosxwX270w1cstX63kfftzrq/codeArgument/list"
+      },
+      {
+        "productId": 165932,
+        "productInstanceId": 10551690027,
+        "productName": "睡神大作战",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270q30r1X63kfftzrq/teacher/activityList"
+      },
+      {
+        "productId": 165636,
+        "productInstanceId": 10551696027,
+        "productName": "答题吃鸡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkAnswer/4000441351027/63i9vosxwX271pt11pX63kfftzrq/answer/activityList"
+      },
+      {
+        "productId": 147,
+        "productInstanceId": 10551668027,
+        "productName": "营销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkmarketing/4000441351027/63i9vosxwX271zxebxX63kfftzrq/marketing/home"
+      },
+      {
+        "productId": 165551,
+        "productInstanceId": 10551669027,
+        "productName": "测评",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkEvaluation/4000441351027/63i9vosxwX2725vqdpX63kfftzrq/evaluation/activityList"
+      },
+      {
+        "productId": 165874,
+        "productInstanceId": 10551684027,
+        "productName": "全民奥运会",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkOlympics/4000441351027/63i9vosxwX271daxcdX63kfftzrq/olympic/list"
+      },
+      {
+        "productId": 165937,
+        "productInstanceId": 10551682027,
+        "productName": "我是预言家",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2711e98tX63kfftzrq/prophet/activityList"
+      },
+      {
+        "productId": 150,
+        "productInstanceId": 10551665027,
+        "productName": "导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/shopguide/4000441351027/63i9vosxwX271i2e6lX63kfftzrq/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 204,
+        "productInstanceId": 10551701027,
+        "productName": "CDP",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mav2/4000441351027/63i9vosxwX270qqlilX63kfftzrq/process/dashboard"
+      },
+      {
+        "productId": 221,
+        "productInstanceId": 10551671027,
+        "productName": "一码多用",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkqrcode/4000441351027/63i9vosxwX270uuhl9X63kfftzrq/qrcode/list"
+      },
+      {
+        "productId": 165635,
+        "productInstanceId": 10551683027,
+        "productName": "步数星球",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkplanet/4000441351027/63i9vosxwX2717clalX63kfftzrq/planet/list"
+      }
+    ],
+    "jumpUrl": "http://master.saas.weimobqa.com/bos/products/home/4000441351027/63i9vosxwX2716r5otX63kfftzrq/dashbord/index",
+    "isRootNode": false,
+    "isShowSettingBtn": true,
+    "settingBtnAuthCodeList": ["home#setup.orgList#crmSetting", "home#setup.orgList#settingLogistics"]
+  },
+  {
+    "bosId": 4000441351027,
+    "vid": 6000711225027,
+    "parentVid": 6000711006027,
+    "parentPath": "-6000708437027-6000711006027-",
+    "parentPathNameList": ["企微融合盟聚无企微1", "华南区"],
+    "parentPathName": "企微融合盟聚无企微1/华南区",
+    "parentVidName": "华南区",
+    "path": "-6000708437027-6000711006027-6000711225027-",
+    "vidType": 10,
+    "vidTypeName": "门店",
+    "baseInfo": {
+      "vidName": "广州海珠区不二店",
+      "vidAlias": null,
+      "vidCode": "",
+      "vidLogos": [],
+      "vidStatus": 1,
+      "sort": 0,
+      "description": null,
+      "createTime": "2023-09-08 11:31:57"
+    },
+    "extInfo": {
+      "productId": null,
+      "productInstanceId": null,
+      "size": null,
+      "vidPictures": null,
+      "wxOnlineStatus": 1,
+      "isUnifyLogo": 1,
+      "addressDto": {
+        "provinceCode": null,
+        "cityCode": null,
+        "countyCode": null,
+        "areaCode": null,
+        "provinceName": "广东省",
+        "cityName": "广州市",
+        "countyName": "海珠区",
+        "areaName": null,
+        "detailAddress": "广州海珠区不二店",
+        "longitude": 113.317388,
+        "latitude": 23.083801
+      },
+      "contactZone": null,
+      "contactZoneName": null,
+      "contactZoneRegexp": null,
+      "contactTel": null,
+      "floorName": null,
+      "businessTime": null
+    },
+    "products": [
+      {
+        "productId": 165937,
+        "productInstanceId": 10551682027,
+        "productName": "我是预言家",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2711e98tX63jywgity/prophet/activityList"
+      },
+      {
+        "productId": 152,
+        "productInstanceId": 10551686027,
+        "productName": "直播",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkPromotionLive/4000441351027/63i9vosxwX271p7lfxX63jywgity/live/group/list"
+      },
+      {
+        "productId": 207,
+        "productInstanceId": 10551699027,
+        "productName": "砸金蛋",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2727o171X63jywgity/egg/activityList"
+      },
+      {
+        "productId": 146,
+        "productInstanceId": 10551703027,
+        "productName": "CRM",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/onecrm/4000441351027/63i9vosxwX2712n9m5X63jywgity/customer/customer-list"
+      },
+      {
+        "productId": 151,
+        "productInstanceId": 10551672027,
+        "productName": "数据",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/sente/4000441351027/63i9vosxwX2710stn1X63jywgity/poster/page/index"
+      },
+      {
+        "productId": 204,
+        "productInstanceId": 10551701027,
+        "productName": "CDP",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mav2/4000441351027/63i9vosxwX270qqlilX63jywgity/process/dashboard"
+      },
+      {
+        "productId": 215,
+        "productInstanceId": 10551676027,
+        "productName": "粉丝集结令",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkFans/4000441351027/63i9vosxwX271om5u5X63jywgity/fans/list"
+      },
+      {
+        "productId": 153,
+        "productInstanceId": 10551685027,
+        "productName": "客服",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/im/4000441351027/63i9vosxwX271j99e5X63jywgity/customer/list"
+      },
+      {
+        "productId": 340,
+        "productInstanceId": 10551660027,
+        "productName": "拆礼盒",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270oapxpX63jywgity/box/activityList"
+      },
+      {
+        "productId": 212,
+        "productInstanceId": 10551663027,
+        "productName": "摇摇乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27165q31X63jywgity/shakedice/activityList"
+      },
+      {
+        "productId": 145,
+        "productInstanceId": 10551702027,
+        "productName": "商城",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecOrder/4000441351027/63i9vosxwX270woxkdX63jywgity/order/order/orderlist"
+      },
+      {
+        "productId": 165635,
+        "productInstanceId": 10551683027,
+        "productName": "步数星球",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkplanet/4000441351027/63i9vosxwX2717clalX63jywgity/planet/list"
+      },
+      {
+        "productId": 334,
+        "productInstanceId": 10551693027,
+        "productName": "分销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecTweeter/4000441351027/63i9vosxwX2717y0wdX63jywgity/weike/list"
+      },
+      {
+        "productId": 217,
+        "productInstanceId": 10551677027,
+        "productName": "礼品卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkGiftcard/4000441351027/63i9vosxwX271ukhvxX63jywgity/giftcard/activity/manage"
+      },
+      {
+        "productId": 165932,
+        "productInstanceId": 10551690027,
+        "productName": "睡神大作战",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270q30r1X63jywgity/teacher/activityList"
+      },
+      {
+        "productId": 210,
+        "productInstanceId": 10551697027,
+        "productName": "刮刮卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271vrd3hX63jywgity/scratch/activityList"
+      },
+      {
+        "productId": 213,
+        "productInstanceId": 10551698027,
+        "productName": "摇一摇",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2721pp59X63jywgity/shake/activityList"
+      },
+      {
+        "productId": 322,
+        "productInstanceId": 10551661027,
+        "productName": "微留言",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkMessage/4000441351027/63i9vosxwX270u91zhX63jywgity/message/list"
+      },
+      {
+        "productId": 417,
+        "productInstanceId": 10551678027,
+        "productName": "微助力(废弃)",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2720itxpX63jywgity/assistance/activityList"
+      },
+      {
+        "productId": 335,
+        "productInstanceId": 10551674027,
+        "productName": "风控",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mprisk/4000441351027/63i9vosxwX271cphqlX63jywgity/risk/risk-black"
+      },
+      {
+        "productId": 341,
+        "productInstanceId": 10551688027,
+        "productName": "红包也疯狂",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX272149jhX63jywgity/redpacket/activityList"
+      },
+      {
+        "productId": 221,
+        "productInstanceId": 10551671027,
+        "productName": "一码多用",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkqrcode/4000441351027/63i9vosxwX270uuhl9X63jywgity/qrcode/list"
+      },
+      {
+        "productId": 165876,
+        "productInstanceId": 10551687027,
+        "productName": "脸战",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkFacebattle/4000441351027/63i9vosxwX271v5xhpX63jywgity/facebattle/list"
+      },
+      {
+        "productId": 220,
+        "productInstanceId": 10551691027,
+        "productName": "带参二维码",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkcodeArgument/4000441351027/63i9vosxwX270w1cstX63jywgity/codeArgument/list"
+      },
+      {
+        "productId": 150,
+        "productInstanceId": 10551665027,
+        "productName": "导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/shopguide/4000441351027/63i9vosxwX271i2e6lX63jywgity/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 216,
+        "productInstanceId": 10551680027,
+        "productName": "荐客有礼",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkRecommend/4000441351027/63i9vosxwX270phl59X63jywgity/recommend/activity/list"
+      },
+      {
+        "productId": 165551,
+        "productInstanceId": 10551669027,
+        "productName": "测评",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkEvaluation/4000441351027/63i9vosxwX2725vqdpX63jywgity/evaluation/activityList"
+      },
+      {
+        "productId": 165921,
+        "productInstanceId": 10551664027,
+        "productName": "默契大考验",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271c424tX63jywgity/tacit/activityList"
+      },
+      {
+        "productId": 165946,
+        "productInstanceId": 10551689027,
+        "productName": "挖宝达人",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mktreasure/4000441351027/63i9vosxwX27272ll9X63jywgity/treasure/list"
+      },
+      {
+        "productId": 222,
+        "productInstanceId": 10551695027,
+        "productName": "大转盘",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271juozxX63jywgity/bigwheel/activityList"
+      },
+      {
+        "productId": 225,
+        "productInstanceId": 10551679027,
+        "productName": "微投票",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/mkVote/4000441351027/63i9vosxwX2726h5zhX63jywgity/advance/vote/list"
+      },
+      {
+        "productId": 214,
+        "productInstanceId": 10551662027,
+        "productName": "消消乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27107e19X63jywgity/elimination/activityList"
+      },
+      {
+        "productId": 147,
+        "productInstanceId": 10551668027,
+        "productName": "营销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkmarketing/4000441351027/63i9vosxwX271zxebxX63jywgity/marketing/home"
+      },
+      {
+        "productId": 226,
+        "productInstanceId": 10551667027,
+        "productName": "扭蛋机",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271tz2a5X63jywgity/twistEgg/activityList"
+      },
+      {
+        "productId": 165636,
+        "productInstanceId": 10551696027,
+        "productName": "答题吃鸡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkAnswer/4000441351027/63i9vosxwX271pt11pX63jywgity/answer/activityList"
+      },
+      {
+        "productId": 205,
+        "productInstanceId": 10551670027,
+        "productName": "种草笔记",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecMarketing/4000441351027/63i9vosxwX270ow5jhX63jywgity/featureArticle/list"
+      },
+      {
+        "productId": 165874,
+        "productInstanceId": 10551684027,
+        "productName": "全民奥运会",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkOlympics/4000441351027/63i9vosxwX271daxcdX63jywgity/olympic/list"
+      },
+      {
+        "productId": 224,
+        "productInstanceId": 10551700027,
+        "productName": "砍价",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkBargain/4000441351027/63i9vosxwX270ks9gtX63jywgity/bargain/activity"
+      }
+    ],
+    "jumpUrl": "http://master.saas.weimobqa.com/bos/products/home/4000441351027/63i9vosxwX2716r5otX63jywgity/dashbord/index",
+    "isRootNode": false,
+    "isShowSettingBtn": true,
+    "settingBtnAuthCodeList": ["home#setup.orgList#crmSetting", "home#setup.orgList#settingLogistics"]
+  },
+  {
+    "bosId": 4000441351027,
+    "vid": 6000711223027,
+    "parentVid": 6000711005027,
+    "parentPath": "-6000708437027-6000711005027-",
+    "parentPathNameList": ["企微融合盟聚无企微1", "华东区"],
+    "parentPathName": "企微融合盟聚无企微1/华东区",
+    "parentVidName": "华东区",
+    "path": "-6000708437027-6000711005027-6000711223027-",
+    "vidType": 10,
+    "vidTypeName": "门店",
+    "baseInfo": {
+      "vidName": "上海浦东店",
+      "vidAlias": null,
+      "vidCode": "",
+      "vidLogos": [],
+      "vidStatus": 1,
+      "sort": 0,
+      "description": null,
+      "createTime": "2023-09-08 11:29:32"
+    },
+    "extInfo": {
+      "productId": null,
+      "productInstanceId": null,
+      "size": null,
+      "vidPictures": null,
+      "wxOnlineStatus": 1,
+      "isUnifyLogo": 1,
+      "addressDto": {
+        "provinceCode": null,
+        "cityCode": null,
+        "countyCode": null,
+        "areaCode": null,
+        "provinceName": "上海市",
+        "cityName": "上海市",
+        "countyName": "浦东新区",
+        "areaName": null,
+        "detailAddress": "川沙新镇黄赵路310号(迪士尼地铁站1号口步行360米)上海迪士尼度假区",
+        "longitude": 121.667003,
+        "latitude": 31.141447
+      },
+      "contactZone": null,
+      "contactZoneName": null,
+      "contactZoneRegexp": null,
+      "contactTel": null,
+      "floorName": null,
+      "businessTime": null
+    },
+    "products": [
+      {
+        "productId": 213,
+        "productInstanceId": 10551698027,
+        "productName": "摇一摇",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2721pp59X63j1tpkye/shake/activityList"
+      },
+      {
+        "productId": 165937,
+        "productInstanceId": 10551682027,
+        "productName": "我是预言家",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2711e98tX63j1tpkye/prophet/activityList"
+      },
+      {
+        "productId": 147,
+        "productInstanceId": 10551668027,
+        "productName": "营销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkmarketing/4000441351027/63i9vosxwX271zxebxX63j1tpkye/marketing/home"
+      },
+      {
+        "productId": 334,
+        "productInstanceId": 10551693027,
+        "productName": "分销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecTweeter/4000441351027/63i9vosxwX2717y0wdX63j1tpkye/weike/list"
+      },
+      {
+        "productId": 165946,
+        "productInstanceId": 10551689027,
+        "productName": "挖宝达人",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mktreasure/4000441351027/63i9vosxwX27272ll9X63j1tpkye/treasure/list"
+      },
+      {
+        "productId": 335,
+        "productInstanceId": 10551674027,
+        "productName": "风控",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mprisk/4000441351027/63i9vosxwX271cphqlX63j1tpkye/risk/risk-black"
+      },
+      {
+        "productId": 220,
+        "productInstanceId": 10551691027,
+        "productName": "带参二维码",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkcodeArgument/4000441351027/63i9vosxwX270w1cstX63j1tpkye/codeArgument/list"
+      },
+      {
+        "productId": 165635,
+        "productInstanceId": 10551683027,
+        "productName": "步数星球",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkplanet/4000441351027/63i9vosxwX2717clalX63j1tpkye/planet/list"
+      },
+      {
+        "productId": 210,
+        "productInstanceId": 10551697027,
+        "productName": "刮刮卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271vrd3hX63j1tpkye/scratch/activityList"
+      },
+      {
+        "productId": 224,
+        "productInstanceId": 10551700027,
+        "productName": "砍价",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkBargain/4000441351027/63i9vosxwX270ks9gtX63j1tpkye/bargain/activity"
+      },
+      {
+        "productId": 153,
+        "productInstanceId": 10551685027,
+        "productName": "客服",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/im/4000441351027/63i9vosxwX271j99e5X63j1tpkye/customer/list"
+      },
+      {
+        "productId": 146,
+        "productInstanceId": 10551703027,
+        "productName": "CRM",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/onecrm/4000441351027/63i9vosxwX2712n9m5X63j1tpkye/customer/customer-list"
+      },
+      {
+        "productId": 341,
+        "productInstanceId": 10551688027,
+        "productName": "红包也疯狂",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX272149jhX63j1tpkye/redpacket/activityList"
+      },
+      {
+        "productId": 215,
+        "productInstanceId": 10551676027,
+        "productName": "粉丝集结令",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkFans/4000441351027/63i9vosxwX271om5u5X63j1tpkye/fans/list"
+      },
+      {
+        "productId": 217,
+        "productInstanceId": 10551677027,
+        "productName": "礼品卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkGiftcard/4000441351027/63i9vosxwX271ukhvxX63j1tpkye/giftcard/activity/manage"
+      },
+      {
+        "productId": 322,
+        "productInstanceId": 10551661027,
+        "productName": "微留言",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkMessage/4000441351027/63i9vosxwX270u91zhX63j1tpkye/message/list"
+      },
+      {
+        "productId": 165551,
+        "productInstanceId": 10551669027,
+        "productName": "测评",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkEvaluation/4000441351027/63i9vosxwX2725vqdpX63j1tpkye/evaluation/activityList"
+      },
+      {
+        "productId": 214,
+        "productInstanceId": 10551662027,
+        "productName": "消消乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27107e19X63j1tpkye/elimination/activityList"
+      },
+      {
+        "productId": 167051,
+        "productInstanceId": 10551694027,
+        "productName": "超级导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecDoor/4000441351027/63i9vosxwX271dwcy5X63j1tpkye/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 204,
+        "productInstanceId": 10551701027,
+        "productName": "CDP",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mav2/4000441351027/63i9vosxwX270qqlilX63j1tpkye/process/dashboard"
+      },
+      {
+        "productId": 165921,
+        "productInstanceId": 10551664027,
+        "productName": "默契大考验",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271c424tX63j1tpkye/tacit/activityList"
+      },
+      {
+        "productId": 150,
+        "productInstanceId": 10551665027,
+        "productName": "导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/shopguide/4000441351027/63i9vosxwX271i2e6lX63j1tpkye/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 225,
+        "productInstanceId": 10551679027,
+        "productName": "微投票",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/mkVote/4000441351027/63i9vosxwX2726h5zhX63j1tpkye/advance/vote/list"
+      },
+      {
+        "productId": 417,
+        "productInstanceId": 10551678027,
+        "productName": "微助力(废弃)",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2720itxpX63j1tpkye/assistance/activityList"
+      },
+      {
+        "productId": 152,
+        "productInstanceId": 10551686027,
+        "productName": "直播",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkPromotionLive/4000441351027/63i9vosxwX271p7lfxX63j1tpkye/live/group/list"
+      },
+      {
+        "productId": 205,
+        "productInstanceId": 10551670027,
+        "productName": "种草笔记",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecMarketing/4000441351027/63i9vosxwX270ow5jhX63j1tpkye/featureArticle/list"
+      },
+      {
+        "productId": 165932,
+        "productInstanceId": 10551690027,
+        "productName": "睡神大作战",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270q30r1X63j1tpkye/teacher/activityList"
+      },
+      {
+        "productId": 221,
+        "productInstanceId": 10551671027,
+        "productName": "一码多用",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkqrcode/4000441351027/63i9vosxwX270uuhl9X63j1tpkye/qrcode/list"
+      },
+      {
+        "productId": 165874,
+        "productInstanceId": 10551684027,
+        "productName": "全民奥运会",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkOlympics/4000441351027/63i9vosxwX271daxcdX63j1tpkye/olympic/list"
+      },
+      {
+        "productId": 165876,
+        "productInstanceId": 10551687027,
+        "productName": "脸战",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkFacebattle/4000441351027/63i9vosxwX271v5xhpX63j1tpkye/facebattle/list"
+      },
+      {
+        "productId": 222,
+        "productInstanceId": 10551695027,
+        "productName": "大转盘",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271juozxX63j1tpkye/bigwheel/activityList"
+      },
+      {
+        "productId": 226,
+        "productInstanceId": 10551667027,
+        "productName": "扭蛋机",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271tz2a5X63j1tpkye/twistEgg/activityList"
+      },
+      {
+        "productId": 340,
+        "productInstanceId": 10551660027,
+        "productName": "拆礼盒",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270oapxpX63j1tpkye/box/activityList"
+      },
+      {
+        "productId": 145,
+        "productInstanceId": 10551702027,
+        "productName": "商城",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecOrder/4000441351027/63i9vosxwX270woxkdX63j1tpkye/order/order/orderlist"
+      },
+      {
+        "productId": 151,
+        "productInstanceId": 10551672027,
+        "productName": "数据",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/sente/4000441351027/63i9vosxwX2710stn1X63j1tpkye/poster/page/index"
+      },
+      {
+        "productId": 207,
+        "productInstanceId": 10551699027,
+        "productName": "砸金蛋",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2727o171X63j1tpkye/egg/activityList"
+      },
+      {
+        "productId": 165636,
+        "productInstanceId": 10551696027,
+        "productName": "答题吃鸡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkAnswer/4000441351027/63i9vosxwX271pt11pX63j1tpkye/answer/activityList"
+      },
+      {
+        "productId": 212,
+        "productInstanceId": 10551663027,
+        "productName": "摇摇乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27165q31X63j1tpkye/shakedice/activityList"
+      },
+      {
+        "productId": 216,
+        "productInstanceId": 10551680027,
+        "productName": "荐客有礼",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkRecommend/4000441351027/63i9vosxwX270phl59X63j1tpkye/recommend/activity/list"
+      }
+    ],
+    "jumpUrl": "http://master.saas.weimobqa.com/bos/products/home/4000441351027/63i9vosxwX2716r5otX63j1tpkye/dashbord/index",
+    "isRootNode": false,
+    "isShowSettingBtn": true,
+    "settingBtnAuthCodeList": ["home#setup.orgList#crmSetting", "home#setup.orgList#settingLogistics"]
+  },
+  {
+    "bosId": 4000441351027,
+    "vid": 6000711221027,
+    "parentVid": 6000711005027,
+    "parentPath": "-6000708437027-6000711005027-",
+    "parentPathNameList": ["企微融合盟聚无企微1", "华东区"],
+    "parentPathName": "企微融合盟聚无企微1/华东区",
+    "parentVidName": "华东区",
+    "path": "-6000708437027-6000711005027-6000711221027-",
+    "vidType": 10,
+    "vidTypeName": "门店",
+    "baseInfo": {
+      "vidName": "上海宝山店",
+      "vidAlias": null,
+      "vidCode": "",
+      "vidLogos": [],
+      "vidStatus": 1,
+      "sort": 0,
+      "description": null,
+      "createTime": "2023-09-08 11:28:14"
+    },
+    "extInfo": {
+      "productId": null,
+      "productInstanceId": null,
+      "size": null,
+      "vidPictures": null,
+      "wxOnlineStatus": 1,
+      "isUnifyLogo": 1,
+      "addressDto": {
+        "provinceCode": null,
+        "cityCode": null,
+        "countyCode": null,
+        "areaCode": null,
+        "provinceName": "上海市",
+        "cityName": "上海市",
+        "countyName": "宝山区",
+        "areaName": null,
+        "detailAddress": "长江路258号中成智谷B1栋微盟大厦",
+        "longitude": 121.498449,
+        "latitude": 31.348809
+      },
+      "contactZone": null,
+      "contactZoneName": null,
+      "contactZoneRegexp": null,
+      "contactTel": null,
+      "floorName": null,
+      "businessTime": null
+    },
+    "products": [
+      {
+        "productId": 205,
+        "productInstanceId": 10551670027,
+        "productName": "种草笔记",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecMarketing/4000441351027/63i9vosxwX270ow5jhX63i4qyn2u/featureArticle/list"
+      },
+      {
+        "productId": 334,
+        "productInstanceId": 10551693027,
+        "productName": "分销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecTweeter/4000441351027/63i9vosxwX2717y0wdX63i4qyn2u/weike/list"
+      },
+      {
+        "productId": 150,
+        "productInstanceId": 10551665027,
+        "productName": "导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/shopguide/4000441351027/63i9vosxwX271i2e6lX63i4qyn2u/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 221,
+        "productInstanceId": 10551671027,
+        "productName": "一码多用",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkqrcode/4000441351027/63i9vosxwX270uuhl9X63i4qyn2u/qrcode/list"
+      },
+      {
+        "productId": 165874,
+        "productInstanceId": 10551684027,
+        "productName": "全民奥运会",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkOlympics/4000441351027/63i9vosxwX271daxcdX63i4qyn2u/olympic/list"
+      },
+      {
+        "productId": 417,
+        "productInstanceId": 10551678027,
+        "productName": "微助力(废弃)",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2720itxpX63i4qyn2u/assistance/activityList"
+      },
+      {
+        "productId": 152,
+        "productInstanceId": 10551686027,
+        "productName": "直播",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkPromotionLive/4000441351027/63i9vosxwX271p7lfxX63i4qyn2u/live/group/list"
+      },
+      {
+        "productId": 207,
+        "productInstanceId": 10551699027,
+        "productName": "砸金蛋",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2727o171X63i4qyn2u/egg/activityList"
+      },
+      {
+        "productId": 322,
+        "productInstanceId": 10551661027,
+        "productName": "微留言",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkMessage/4000441351027/63i9vosxwX270u91zhX63i4qyn2u/message/list"
+      },
+      {
+        "productId": 217,
+        "productInstanceId": 10551677027,
+        "productName": "礼品卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkGiftcard/4000441351027/63i9vosxwX271ukhvxX63i4qyn2u/giftcard/activity/manage"
+      },
+      {
+        "productId": 165551,
+        "productInstanceId": 10551669027,
+        "productName": "测评",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkEvaluation/4000441351027/63i9vosxwX2725vqdpX63i4qyn2u/evaluation/activityList"
+      },
+      {
+        "productId": 165635,
+        "productInstanceId": 10551683027,
+        "productName": "步数星球",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkplanet/4000441351027/63i9vosxwX2717clalX63i4qyn2u/planet/list"
+      },
+      {
+        "productId": 215,
+        "productInstanceId": 10551676027,
+        "productName": "粉丝集结令",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkFans/4000441351027/63i9vosxwX271om5u5X63i4qyn2u/fans/list"
+      },
+      {
+        "productId": 213,
+        "productInstanceId": 10551698027,
+        "productName": "摇一摇",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2721pp59X63i4qyn2u/shake/activityList"
+      },
+      {
+        "productId": 145,
+        "productInstanceId": 10551702027,
+        "productName": "商城",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecOrder/4000441351027/63i9vosxwX270woxkdX63i4qyn2u/order/order/orderlist"
+      },
+      {
+        "productId": 165946,
+        "productInstanceId": 10551689027,
+        "productName": "挖宝达人",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mktreasure/4000441351027/63i9vosxwX27272ll9X63i4qyn2u/treasure/list"
+      },
+      {
+        "productId": 146,
+        "productInstanceId": 10551703027,
+        "productName": "CRM",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/onecrm/4000441351027/63i9vosxwX2712n9m5X63i4qyn2u/customer/customer-list"
+      },
+      {
+        "productId": 212,
+        "productInstanceId": 10551663027,
+        "productName": "摇摇乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27165q31X63i4qyn2u/shakedice/activityList"
+      },
+      {
+        "productId": 214,
+        "productInstanceId": 10551662027,
+        "productName": "消消乐",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX27107e19X63i4qyn2u/elimination/activityList"
+      },
+      {
+        "productId": 165876,
+        "productInstanceId": 10551687027,
+        "productName": "脸战",
+        "jumpUrl": "https://master.saas.weimobqa.com/bos/products/mkFacebattle/4000441351027/63i9vosxwX271v5xhpX63i4qyn2u/facebattle/list"
+      },
+      {
+        "productId": 210,
+        "productInstanceId": 10551697027,
+        "productName": "刮刮卡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271vrd3hX63i4qyn2u/scratch/activityList"
+      },
+      {
+        "productId": 204,
+        "productInstanceId": 10551701027,
+        "productName": "CDP",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mav2/4000441351027/63i9vosxwX270qqlilX63i4qyn2u/process/dashboard"
+      },
+      {
+        "productId": 225,
+        "productInstanceId": 10551679027,
+        "productName": "微投票",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/mkVote/4000441351027/63i9vosxwX2726h5zhX63i4qyn2u/advance/vote/list"
+      },
+      {
+        "productId": 335,
+        "productInstanceId": 10551674027,
+        "productName": "风控",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mprisk/4000441351027/63i9vosxwX271cphqlX63i4qyn2u/risk/risk-black"
+      },
+      {
+        "productId": 224,
+        "productInstanceId": 10551700027,
+        "productName": "砍价",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkBargain/4000441351027/63i9vosxwX270ks9gtX63i4qyn2u/bargain/activity"
+      },
+      {
+        "productId": 222,
+        "productInstanceId": 10551695027,
+        "productName": "大转盘",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271juozxX63i4qyn2u/bigwheel/activityList"
+      },
+      {
+        "productId": 340,
+        "productInstanceId": 10551660027,
+        "productName": "拆礼盒",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270oapxpX63i4qyn2u/box/activityList"
+      },
+      {
+        "productId": 165636,
+        "productInstanceId": 10551696027,
+        "productName": "答题吃鸡",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkAnswer/4000441351027/63i9vosxwX271pt11pX63i4qyn2u/answer/activityList"
+      },
+      {
+        "productId": 341,
+        "productInstanceId": 10551688027,
+        "productName": "红包也疯狂",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX272149jhX63i4qyn2u/redpacket/activityList"
+      },
+      {
+        "productId": 165937,
+        "productInstanceId": 10551682027,
+        "productName": "我是预言家",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX2711e98tX63i4qyn2u/prophet/activityList"
+      },
+      {
+        "productId": 226,
+        "productInstanceId": 10551667027,
+        "productName": "扭蛋机",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271tz2a5X63i4qyn2u/twistEgg/activityList"
+      },
+      {
+        "productId": 165921,
+        "productInstanceId": 10551664027,
+        "productName": "默契大考验",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX271c424tX63i4qyn2u/tacit/activityList"
+      },
+      {
+        "productId": 151,
+        "productInstanceId": 10551672027,
+        "productName": "数据",
+        "jumpUrl": " http://master.saas.weimobqa.com/bos/products/sente/4000441351027/63i9vosxwX2710stn1X63i4qyn2u/poster/page/index"
+      },
+      {
+        "productId": 165932,
+        "productInstanceId": 10551690027,
+        "productName": "睡神大作战",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/lego/4000441351027/63i9vosxwX270q30r1X63i4qyn2u/teacher/activityList"
+      },
+      {
+        "productId": 220,
+        "productInstanceId": 10551691027,
+        "productName": "带参二维码",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkcodeArgument/4000441351027/63i9vosxwX270w1cstX63i4qyn2u/codeArgument/list"
+      },
+      {
+        "productId": 216,
+        "productInstanceId": 10551680027,
+        "productName": "荐客有礼",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkRecommend/4000441351027/63i9vosxwX270phl59X63i4qyn2u/recommend/activity/list"
+      },
+      {
+        "productId": 167051,
+        "productInstanceId": 10551694027,
+        "productName": "超级导购",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/ecDoor/4000441351027/63i9vosxwX271dwcy5X63i4qyn2u/shopGuide/guide-manage/list"
+      },
+      {
+        "productId": 153,
+        "productInstanceId": 10551685027,
+        "productName": "客服",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/im/4000441351027/63i9vosxwX271j99e5X63i4qyn2u/customer/list"
+      },
+      {
+        "productId": 147,
+        "productInstanceId": 10551668027,
+        "productName": "营销",
+        "jumpUrl": "http://master.saas.weimobqa.com/bos/products/mkmarketing/4000441351027/63i9vosxwX271zxebxX63i4qyn2u/marketing/home"
+      }
+    ],
+    "jumpUrl": "http://master.saas.weimobqa.com/bos/products/home/4000441351027/63i9vosxwX2716r5otX63i4qyn2u/dashbord/index",
+    "isRootNode": false,
+    "isShowSettingBtn": true,
+    "settingBtnAuthCodeList": ["home#setup.orgList#crmSetting", "home#setup.orgList#settingLogistics"]
+  }
+]

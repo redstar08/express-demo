@@ -16,6 +16,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 // app.use(expressMiddleware())
 // 配置静态托管
 app.use(express.static(path.join(__dirname, "/public")))
+app.use("/assets", express.static(path.join(__dirname, "/upload")))
 
 // ------------配置统一返回的json数据格式---------------
 app.use((req, res, next) => {
@@ -47,6 +48,10 @@ app.all("/*", (req, res, next) => {
 // demo模块
 const demo = require("./routes/demo")
 app.use("/demo", demo)
+
+// demo模块
+const api = require("./routes/api")
+app.use("/api", api)
 
 // 处理无效路由 Not Found
 app.use((req, res) => {
